@@ -1,0 +1,20 @@
+{
+    "name": "bishma/lazada-package",
+    "description": "Unofficial Lazada API Package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Bishma\\LazadaSDK\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "aria bishma",
+            "email": "ariabishma848@gmail.com"
+        }
+    ],
+    "require": {
+        "php" : ">=5.3.0"
+    }
+}
